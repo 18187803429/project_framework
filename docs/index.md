@@ -1,3 +1,4 @@
+---
 home: true
 heroText: 印客学院
 tagline: 前端编码规范工程化
